@@ -29,6 +29,7 @@ public class MainActivity extends ActionBarActivity {
     private Button button4;
     private ImageView imageView;
     private ImageView imageView2;
+    private ImageView imageView3;
     private final static int SUCCESS_STATUS = 1;
 
     private final static int FAIL_STATUS = 0;
